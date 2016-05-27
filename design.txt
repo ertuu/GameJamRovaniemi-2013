@@ -1,0 +1,30 @@
+Player:
+	Move,sides,jump V
+	Physics V
+	Shoot V
+	Shoot up V
+	Die
+	Health system V
+	Armor system? V
+	Score system V
+	Highscore table
+
+	V Bonuses: Ammobonus, health, immortality, speed, damage?
+	
+Enemies:
+	Few types:
+		Walking enemies, V
+		Flying V
+		Falling?
+		Armor V
+	
+	Move, V
+	Die, V
+	Damage. V
+	
+Level:
+	Cover V
+	Background V
+
+
+	
